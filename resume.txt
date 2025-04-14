@@ -1,0 +1,64 @@
+RAHUL KHETWAL  
+Phone: +91 6397709831  
+Email: itzrahul9548437@gmail.com  
+LinkedIn: Rahul Khetwal  
+GitHub: Rahulkhetwal  
+
+------------------------------------------
+🎓 EDUCATION
+------------------------------------------
+• Doon Institute of Engineering and Technology (Sept 2021 - Present)  
+  Bachelor of Technology in Computer Science and Engineering  
+  Expected Graduation: 2025
+
+• Shri Guru Ram Rai Public School (April 2021)  
+  CBSE Class XII – 77%
+
+• Bhagirathi Vidyalaya (April 2019)  
+  CBSE Class X – 89.6%
+
+------------------------------------------
+💼 PROJECTS
+------------------------------------------
+• Automated AWS Resource Usage Reporting  
+  (Oct 2023 – Dec 2023)  
+  - Shell scripting, AWS resource management  
+  - Automated reporting to optimize cloud resource usage and cost tracking.
+
+• Interview Bot for Process Automation  
+  (Jan 2024 – Apr 2024)  
+  - NLP, Automation, Chatbot  
+  - Evaluated candidates and provided smart response analysis.
+
+• Personal Portfolio Website  
+  (Feb 2024 – Mar 2024)  
+  - HTML, CSS, JavaScript  
+  - Showcased personal projects and skills online.
+
+• General Knowledge Quiz Web App  
+  (Mar 2024 – Apr 2024)  
+  - JS, HTML, CSS  
+  - Quiz with score tracker, restart, and feedback.
+
+• YouTube Homepage Replica  
+  (Jan 2025 – Apr 2025)  
+  - HTML, CSS, JS  
+  - Responsive clone of YouTube UI for UX demonstration.
+
+------------------------------------------
+📜 CERTIFICATIONS
+------------------------------------------
+• IT Skill Advancement Certificate - SARA InfoTech (July 2021)  
+  - Office Tools, Computer Basics, and Productivity Software
+
+------------------------------------------
+🧠 SKILLS
+------------------------------------------
+• Technical: Python, AWS, Git, Shell Scripting, OOP, Java, HTML, CSS, MS Word/Excel/PowerPoint  
+• Non-Technical: Teamwork, Leadership, Adaptability, Decision Making, Creativity, Public Speaking
+
+------------------------------------------
+🏅 EXTRA-CURRICULARS
+------------------------------------------
+• Winner, Volleyball Tournament – D.I.E.T. 2022  
+• Participant in debates, tech events, and creative competitions
