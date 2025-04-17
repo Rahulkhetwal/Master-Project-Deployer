@@ -1,37 +1,50 @@
-# Master Project Deployer 🚀
+```markdown
+# 💻 Smart Project Builder - DevOps & Automation Project Generator 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
-[![Flask](https://img.shields.io/badge/Flask-Web_App_Library-000000?logo=flask)](https://flask.palletsprojects.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Automation-black?logo=github)](https://github.com)
+[![Automation](https://img.shields.io/badge/CLI-Automation-black?logo=github)](https://github.com)
+[![DevOps](https://img.shields.io/badge/DevOps-Projects-blueviolet?logo=docker)](https://github.com)
 [![AI](https://img.shields.io/badge/AI-Enhanced-yellow?logo=openai)](https://openai.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A powerful all-in-one tool for developers and job seekers to streamline productivity, automate workflows, and manage GitHub projects—all through an intuitive command-line interface.
+A powerful CLI-based tool to **build, personalize, and push smart DevOps and automation projects to GitHub**. Designed for developers, students, and job seekers who want to create impressive GitHub repositories with ease.
 
 ---
 
 ## ✨ Features
 
-- 🔹 **Basic Mode**: Lightweight code editor with real-time suggestions and execution.
-- 🔸 **Advanced Mode**: AI-enhanced code editor with smart suggestions, syntax diagnosis, and fixes.
-- ✅ **Automated GitHub Project Creation**: Initialize, commit, push, and pull with one click.
-- ✉️ **Cold Email Generator**: Create and send emails to recruiters or collaborators.
-- 📄 **Notice & Resume Automation**: Upload resume (PDF/Image), extract skills, auto-detect recruiters, and generate applications.
-- 🔧 **AI-generated Project Templates** *(Advanced Mode)*
-- 🔐 **Secure Mode Selection**: Choose between modes with password-protected access.
-- 🔈 **Upcoming**: Voice command-based interaction.
-- 🐳 **Planned**: Docker container support, GUI dashboard.
+### 🔑 Owner Mode (for Rahul only)
+- ⚙️ Full access to project creator
+- ✉️ Cold Email Generator (for recruiters)
+- 📄 Resume analyzer and notifier
+- 🧠 Smart Recruiter Fetcher
+- 🛠 Auto job applier
+- 📤 One-click GitHub project deployment
+
+### 🙋 Guest Mode (for general users)
+> Want a portfolio-worthy project without writing complex code?
+
+💡 Just run, select project type, and pay via UPI to receive a personalized GitHub repository.
+
+| Project Type     | Price | Cashback |
+|------------------|-------|----------|
+| Mini Project     | ₹9    | ₹1       |
+| Intermediate     | ₹29   | ₹3       |
+| Major Project    | ₹49   | ₹5       |
+
+📌 **Note**: The project is created first. Deployment to your GitHub occurs **after UPI payment**:  
+**`itzrahul9548437@oksbi`**
 
 ---
 
 ## 📂 Folder Structure
 ```
-Master-Project-Deployer/
-├── basic_editor.py          # Basic code editor
-├── advanced_editor.py       # Advanced AI code editor
-├── mode_selector.py         # Mode launcher
-├── deploy.py                # GitHub deployer
-├── smart_recruiter_fetcher.py # Resume parser + recruiter matcher
+Smart-Project-Builder/
+├── main_app.py              # Main interface (Guest + Owner)
+├── cold_email_generator.py  # For job seekers
+├── resume_notifier.py       # Scans and highlights resume issues
+├── auto_job_applier.py      # Auto applies to job listings
+├── smart_recruiter_fetcher.py # Finds recruiters via resume
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
 ```
@@ -41,60 +54,62 @@ Master-Project-Deployer/
 ## ⚙️ Installation
 1. Install **Python 3.10+**
 2. Clone the repository:
-   ```powershell
-   git clone https://github.com/yourusername/Master-Project-Deployer.git
-   cd Master-Project-Deployer
+   ```bash
+   git clone https://github.com/Rahulkhetwal/Smart-Project-Builder.git
+   cd Smart-Project-Builder
    ```
 3. Install required packages:
-   ```powershell
+   ```bash
    pip install -r requirements.txt
    ```
 
 ---
 
 ## 🚀 Usage
-To launch the interactive selector:
-```powershell
-python mode_selector.py
+Launch the Smart Builder:
+
+```bash
+python main_app.py
 ```
 
-Or run a specific mode directly:
-```powershell
-python basic_editor.py         # For basic suggestions and execution
-python advanced_editor.py      # For AI-enhanced diagnostics
-python smart_recruiter_fetcher.py  # For uploading resume & cold emailing recruiters
-```
+🧠 **Choose your mode**:
+- Owner Mode – Full access for Rahul
+- Guest Mode – Purchase project and get it deployed
 
-To deploy your project to GitHub:
-```powershell
-python deploy.py
+Optional:
+```bash
+python resume_notifier.py         # Resume scanner
+python cold_email_generator.py    # Cold email writing
+python auto_job_applier.py        # Auto job applying (Rahul only)
 ```
 
 ---
 
 ## 📸 Demo
 ```
-🎯 Welcome to Code Editor Launcher
-1. Basic Mode
-2. Advanced Mode
-Select your mode (1/2): 2
-🚀 Launching Advanced Editor...
+🛠 Welcome to Smart Project Builder
+1. Owner Mode
+2. Guest Mode
+Select Mode (1/2): 2
 
-💡 Smart Suggestion: ['for i in range(5): print(i)']
-❌ Error occurred:
-Traceback... (Syntax Error Diagnosed)
-🛠️ Suggestion: Fix missing ':' at the end of 'for' loop
+🎯 Choose Project Type:
+1. Mini
+2. Intermediate
+3. Major
+Selected: Intermediate (₹29)
+
+✅ Creating project...
+💳 Pay ₹29 to itzrahul9548437@oksbi to receive your project.
 ```
 
 ---
 
 ## 🔮 Future Enhancements
-- Voice command support with `speech_recognition` and `gTTS`
-- Docker container build
-- Web-based GUI using Flask + HTML/CSS/JS
-- AI resume scanner and recruiter auto-fetching
-- Auto Gmail sender (OAuth2)
-- Project deployment to Replit or GitHub Pages
+- Voice-based interaction with `speech_recognition`
+- GUI version with Flask (for drag & drop)
+- Auto Gmail integration with OAuth2
+- Docker container packaging
+- Resume to Job Match ML feature
 
 ---
 
@@ -105,9 +120,10 @@ Traceback... (Syntax Error Diagnosed)
 
 ---
 
-## 🤾 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🤝 Support
 
----
+If this project helped you or saved you time, support my work ❤️
 
-> 💬 *Feel free to fork, contribute, or raise issues. Let’s make something awesome together!*
+![UPI QR Code](assets/upi_qr.png)
+
+**UPI ID:** `itzrahul9548437@oksbi`
